@@ -1,6 +1,5 @@
 <html>
   <head>
-    <p> Inserindo Links </p>
   </head>
   <body>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxyL8fx3HazW-gyXY9QBRkmar9-MahNMo7u_gPHXNNNNUwaVMPAVgLIVWqo56i7IcAeM&usqp=CAU">
@@ -11,7 +10,9 @@
    <a href="#Estrutura do curso"><font color="Green">Estrutura do curso</font></a><br>
    <a href="#Pré-requisitos"><font color="Maroon">Pré-requisitos</font></a><br>
     
-   <p><b><font face="Arial" size="5" color="Red">HTML - Básico</p></b></font face>
+##
+    
+   <p><b><font face="Arial" size="5" color="Blue">HTML - Básico</p></b></font face>
    <a name="Categoria">
    <p><b><font color="Red" size="4">Categoria do Curso</p></b></font face>
    <p>Desenvolvimento de aplicativos</p>
