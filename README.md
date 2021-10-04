@@ -3,13 +3,14 @@
     <p> Inserindo Links </p>
   </head>
   <body>
-   <img src="">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxyL8fx3HazW-gyXY9QBRkmar9-MahNMo7u_gPHXNNNNUwaVMPAVgLIVWqo56i7IcAeM&usqp=CAU">
    <p>Para saber mais informações sobre o curso de HTML Básico, clique na informação desejada</p>
    <a href="#Categoria"><font color="Fuchsia">Categoria</font></a><br>
    <a href="#Carga horária"><font color="Blue">Carga horária</font></a><br>
    <a href="#Descrição do curso"><font color="Gold">Descrição do curso</font></a><br>
    <a href="#Estrutura do curso"><font color="Green">Estrutura do curso</font></a><br>
    <a href="#Pré-requisitos"><font color="Maroon">Pré-requisitos</font></a><br>
+    
    <p><b><font face="Arial" size="5" color="Red">HTML - Básico</p></b></font face>
    <a name="Categoria">
    <p><b><font color="Red" size="4">Categoria do Curso</p></b></font face>
