@@ -1,9 +1,9 @@
 <html>
   <head>
-    <title>Exerc5 - Criando Links</title>
+    <p> Inserindo Links </p>
   </head>
   <body>
-   <img src="C:\Users\lukas\Desktop/html.jpg">
+   <img src="">
    <p>Para saber mais informações sobre o curso de HTML Básico, clique na informação desejada</p>
    <a href="#Categoria"><font color="Fuchsia">Categoria</font></a><br>
    <a href="#Carga horária"><font color="Blue">Carga horária</font></a><br>
